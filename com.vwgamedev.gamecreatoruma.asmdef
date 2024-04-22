@@ -1,0 +1,17 @@
+{
+    "name": "com.vwgamedev.gamecreatoruma",
+    "rootNamespace": "",
+    "references": [
+        "GUID:406c89e0bc84d48f4b079c3c4cd13320",
+        "GUID:f4cb6d2c24715bd4884385645277f011"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

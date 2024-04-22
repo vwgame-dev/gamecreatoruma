@@ -1,0 +1,22 @@
+{
+    "name": "com.vwgamedev.gamecreatoruma",
+    "version": "0.1.0",
+    "displayName": "GameCreator UMA",
+    "description": "This package provides a seamless integration of the UMA Avatar System into GameCreator2. Two of the most powerful tools for creating characters and games are now working together.",
+    "unity": "2022.3",
+    "unityRelease": "20f1",
+    "documentationUrl": "https://vwgame.dev/",
+    "changelogUrl": "https://vwgame.dev/",
+    "licensesUrl": "https://vwgame.dev/",
+    "dependencies": {
+    },
+    "keywords": [
+      "GameCreator",
+      "UMA"
+    ],
+    "author": {
+      "name": "Valentin Winkelmann",
+      "email": "info@valentinwinkelmann.com",
+      "url": "https://vwgame.dev/"
+    }
+  }
